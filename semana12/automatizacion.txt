@@ -1,0 +1,15 @@
+Evento:
+Se registra una nueva causa en la plataforma.
+
+Mensaje:
+"Nueva causa creada en la plataforma. Revisar el sistema."
+
+Información que no debe enviarse:
+
+- Cédulas.
+- Teléfonos.
+- Direcciones.
+- Contraseñas.
+- Tokens.
+- Claves de API.
+- Datos personales sensibles.
